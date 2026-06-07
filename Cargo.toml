@@ -1,0 +1,9 @@
+[package]
+name = "wire-harmony"
+version = "0.1.0"
+description = "Wire harmonics for signal transmission analysis with wire media, wave propagation, resonance, harmonics, and interference"
+repository = "https://github.com/SuperInstance/wire-harmony"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
